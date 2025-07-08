@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# ASP.NET Core secrets
+secrets.json
+
+# Logs
+*.log
+
+# Auto-generated files
+Generated_Code/
+
+# Publish output
+publish/
+
+# Others
+*.db
+*.db-shm
+*.db-wal

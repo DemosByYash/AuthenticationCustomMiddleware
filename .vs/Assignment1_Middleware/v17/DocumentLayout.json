@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Console Apps\\Assignment1_Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80F52E0-77B6-408D-82BC-4FC0BDB55598}|Assignment1_Middleware.csproj|d:\\c#\\console apps\\assignment1_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80F52E0-77B6-408D-82BC-4FC0BDB55598}|Assignment1_Middleware.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80F52E0-77B6-408D-82BC-4FC0BDB55598}|Assignment1_Middleware.csproj|d:\\c#\\console apps\\assignment1_middleware\\custommiddleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80F52E0-77B6-408D-82BC-4FC0BDB55598}|Assignment1_Middleware.csproj|solutionrelative:custommiddleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "D:\\C#\\Console Apps\\Assignment1_Middleware\\CustomMiddleware\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomMiddleware\\LoginMiddleware.cs",
+              "ToolTip": "D:\\C#\\Console Apps\\Assignment1_Middleware\\CustomMiddleware\\LoginMiddleware.cs",
+              "RelativeToolTip": "CustomMiddleware\\LoginMiddleware.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAADMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:25:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Console Apps\\Assignment1_Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\Console Apps\\Assignment1_Middleware\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:21:32.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
